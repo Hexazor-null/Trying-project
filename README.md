@@ -1,4 +1,4 @@
-# Trying-project
+#tracer
 Be carefull and save
 Project Script Termux 
 
@@ -6,14 +6,14 @@ Project Script Termux
 #TRACER
 pkg install python2
 pkg install git 
-git clone https://github.com/Hexazor-null/Trying-project
+git clone https://github.com/Hexazor-null/TR4CER
 chmod +x *
 
-cd Trying-project
+cd TR4CER
 =>how to use 
-python2 Trying-project.py
+python2 TR4CER.py
 
-copy link 127.0.0.0 
+copy link www.xnxx.com
  
 open use chrome
 
@@ -22,6 +22,8 @@ get ip;
 get location;
 
 get user name;
+
+get number phone;
 
 to look information look in folder
  
