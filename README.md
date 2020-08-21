@@ -13,7 +13,7 @@ cd TR4CER
 =>how to use 
 python2 TR4CER.py
 
-copy link www.xnxx.com
+copy link www.google.com
  
 open use chrome
 
